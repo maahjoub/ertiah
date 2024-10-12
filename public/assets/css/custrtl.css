@@ -1,0 +1,9 @@
+html {
+    direction: ltr !important;
+}
+.wrapper {
+    direction: rtl !important;
+}
+.new-width {
+    width: 156%!important;
+}
